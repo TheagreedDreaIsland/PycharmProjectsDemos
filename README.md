@@ -7,6 +7,6 @@ Python函数学习
 ###高阶函数
 ```print("一个最简单的高阶函数：")
 def add(x, y, f):
-    return f(x)+f(y)```
+    return f(x)+f(y)
 
 ###最后更新时间2019年4月19日 12:04:33
