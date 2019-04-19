@@ -55,3 +55,7 @@ def add(x, y, f):
 # f(x) + f(y) ==> abs(-5) + abs(6) ==> 11
 # return 11
 print(add(-5,6,abs))
+
+def add2(x,y,a):
+    return a([x,y])
+print(add2(109,108,sum))
