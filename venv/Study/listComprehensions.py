@@ -43,3 +43,5 @@ if L2 == ['hello', 'world', 'apple']:
     print('测试通过!')
 else:
     print('测试失败!')
+
+
