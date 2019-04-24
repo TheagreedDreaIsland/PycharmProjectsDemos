@@ -17,6 +17,8 @@ def not_empty(s):
 
 print(list(filter(not_empty, ['A', '', 'B', None, 'C', '  '])))
 
+
+
 #可见用filter()这个高阶函数，关键在于正确实现一个“筛选”函数。
 
 #注意到filter()函数返回的是一个Iterator，也就是一个惰性序列，
